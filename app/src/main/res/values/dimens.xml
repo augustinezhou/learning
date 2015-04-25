@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="countDownSize">40dp</dimen>
+    <dimen name="topbarHeight">45dip</dimen>
+    <dimen name="imageHeight">70dip</dimen>
+    <dimen name="buttonBarHeight">40dip</dimen>
+</resources>
